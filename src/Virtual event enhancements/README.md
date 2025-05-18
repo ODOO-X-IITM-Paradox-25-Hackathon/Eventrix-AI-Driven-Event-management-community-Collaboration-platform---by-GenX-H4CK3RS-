@@ -11,6 +11,9 @@ In the regional translations, it handles only hindi language specific to India.
 
 ![image](https://github.com/user-attachments/assets/fdca4e76-77ca-4242-9fa8-5f04a6bd4454)
 
+![image](https://github.com/user-attachments/assets/82f481b5-00e9-42a1-bb97-812a41d1d9f1)
+
+
 for it to handle all other indian languages, with regional translations in audio & text, we integrate sarvam ai to reduce
 communication barrier as reduced by text transcriptions (live event transcriptions in virtual events- a boom)
 
