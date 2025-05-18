@@ -6,7 +6,20 @@ Demo Video:
 
 UI Video: https://drive.google.com/file/d/1QXudfpBWWCD1CD4g8vGtTceFu-6JCnlW/view?usp=sharing
 <br/>
+<br/>
+<br/>
+<br/>
 AI Features: https://drive.google.com/file/d/10AawHEL63JfSrEsXNZ5LS3wkv03IEPdZ/view?usp=sharing
+<br/>
+<br/>
+<br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
