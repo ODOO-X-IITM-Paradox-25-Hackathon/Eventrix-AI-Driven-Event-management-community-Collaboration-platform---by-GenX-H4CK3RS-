@@ -11,6 +11,9 @@ and for webscraping reasons, instead of relying on traditional webscrapers such 
 
 we automate the scraping process using n8n, crew ai, pipedream and make, to automate manual webscraping
 
+![image](https://github.com/user-attachments/assets/d6716fca-d9f9-4339-ba73-25003ec78585)
+
+
 
 reason for webscraping:
 -
