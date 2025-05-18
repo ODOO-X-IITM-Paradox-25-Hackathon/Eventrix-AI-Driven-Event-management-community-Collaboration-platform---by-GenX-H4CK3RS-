@@ -9,5 +9,5 @@ understanding doctor's prescriptions, analysis & handwriting
 extracting text out a pic
 extratcing no. plate out of a cctv yolo based deep learning model for overspeeding vehicles
 
-Demo:
+Demo: https://drive.google.com/file/d/1l-LbQov3Omx1rIC8HXHuVWlMIPx39Bzt/view?usp=drive_link
 -
