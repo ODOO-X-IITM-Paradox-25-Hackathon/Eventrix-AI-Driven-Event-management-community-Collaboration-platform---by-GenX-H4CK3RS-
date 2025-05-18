@@ -1,0 +1,1 @@
+# Eventrix-AI-Driven-Event-management-community-Collaboration-platform---by-GenX-H4CK3RS-
