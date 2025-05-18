@@ -4,8 +4,12 @@ Eventrix: An AI Driven Event management & community Collaboration platform to ho
 Demo Video:
 -
 
-https://drive.google.com/file/d/10AawHEL63JfSrEsXNZ5LS3wkv03IEPdZ/view?usp=sharing
-
+UI Video: https://drive.google.com/file/d/1QXudfpBWWCD1CD4g8vGtTceFu-6JCnlW/view?usp=sharing
+<br/>
+AI Features: https://drive.google.com/file/d/10AawHEL63JfSrEsXNZ5LS3wkv03IEPdZ/view?usp=sharing
+<br/>
+<br/>
+<br/>
 ![image](https://github.com/user-attachments/assets/6a7a711a-9ee0-4fb7-9a36-5b7f1efb4834)
 
 ![image](https://github.com/user-attachments/assets/e411c3ea-f3bd-4645-b635-66750cc86c4f)
