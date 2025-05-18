@@ -13,7 +13,7 @@ Inovation and Uniqueness - Our proposed MVP
 ![image](https://github.com/user-attachments/assets/283b00ae-2a10-48a7-b97f-f39d4015e41b)
 
 
-We carefully analyse & perform Literature Study (Competitor Analysis - Identified Competitors:apps=> luma, cvent)
+We carefully analyse & perform Literature Study (Competitor Analysis - Identified Competitors:apps=> luma, cvent) and we pitch in our unique selling USPs and MSPs
 
 ![image](https://github.com/user-attachments/assets/e184295f-9fbd-4ab7-a280-327b68e6e998)
 
