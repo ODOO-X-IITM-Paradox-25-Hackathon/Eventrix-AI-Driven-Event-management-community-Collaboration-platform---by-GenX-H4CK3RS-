@@ -14,15 +14,6 @@ AI Features: https://drive.google.com/file/d/10AawHEL63JfSrEsXNZ5LS3wkv03IEPdZ/v
 <br/>
 <br/>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 ![image](https://github.com/user-attachments/assets/6a7a711a-9ee0-4fb7-9a36-5b7f1efb4834)
 
 ![image](https://github.com/user-attachments/assets/e411c3ea-f3bd-4645-b635-66750cc86c4f)
