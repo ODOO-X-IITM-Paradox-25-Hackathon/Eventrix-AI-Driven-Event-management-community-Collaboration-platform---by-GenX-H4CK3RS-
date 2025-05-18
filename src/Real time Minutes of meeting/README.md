@@ -7,3 +7,5 @@ Real time Minutes of Meeting (in any regional languages) could be taken down, el
 Also gives us key takeaways
 
 -  We used Claap's video recorder tool, leveraged with speech to text synthesizer & note ninja's automated note taking features.
+
+-  Find clapp and note ninja, askify on chrome web store
