@@ -1,0 +1,35 @@
+div[data-testid="stExpander"] div[role="button"] p {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+
+.custom-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+.custom-table th, .custom-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.custom-table th {
+    background-color: #f2f2f2;
+}
+
+.stTable {
+    width: 100%;
+    overflow-x: auto;
+}
+
+
+.expander-image {
+    max-width: 50%; /* Adjust the percentage as needed */
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
