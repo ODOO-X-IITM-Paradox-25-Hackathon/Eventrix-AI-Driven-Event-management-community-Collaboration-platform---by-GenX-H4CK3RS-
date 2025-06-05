@@ -1,0 +1,16 @@
+requests 
+pandas 
+pydub
+sarvamai
+ipykernel
+SpeechRecognition
+pyaudio
+langdetect
+gtts
+playsound
+soundfile
+smtplib
+pyttsx3
+geopy
+bs4
+selenium 
