@@ -8,6 +8,12 @@ Demo Video (36hr hackathon- Round 2):
 https://drive.google.com/file/d/1kaLca0vBg13Tqj77_djH1oaPVgsiE6Cz/view?usp=sharing
 
 
+it's a long video, you might have to download to view the video (it's given in high quality)
+<br/>
+Team GenX H4CK3RS!
+<br/>
+
+
 
 <br/>
 <br/>
