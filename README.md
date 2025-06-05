@@ -14,7 +14,9 @@ it's a long video, you might have to download to view the video (it's given in h
 Team GenX H4CK3RS!
 <br/>
 
-Please download the zip file for the code & also follow the below instructions after downloading the eventrix-event-verse-29-main.zip
+Please download the zip file for the code & also follow the below instructions after downloading the 
+<br/>
+eventrix-event-verse-29-main.zip
 
 commands:-
 =
