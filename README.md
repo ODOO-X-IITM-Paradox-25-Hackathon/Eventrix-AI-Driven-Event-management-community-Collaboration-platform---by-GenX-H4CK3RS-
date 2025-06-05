@@ -1,7 +1,12 @@
 Eventrix: An AI Driven Event management & community Collaboration platform to host events & engage in activites
 -
 
-Demo Video:
+
+Demo Video (36hr hackathon- Round 2):
+-
+
+
+Demo Video (8hr hackathon- Round 1):
 -
 
 UI Video: https://drive.google.com/file/d/1QXudfpBWWCD1CD4g8vGtTceFu-6JCnlW/view?usp=sharing
